@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(22, 17, 16)!important;
+    /* background-image: linear-gradient(to bottom left, rgb(56, 56, 130), rgb(162, 162, 58), rgb(165, 36, 158), rgb(181, 84, 84), rgb(57, 118, 50), rgb(213, 85, 207), rgb(53, 16, 53)); */
+    /* background-image: url('https://images.pexels.com/photos/918642/pexels-photo-918642.jpeg?auto=compress&cs=tinysrgb&w=1600'); */
+    /* background-image: url('https://images.pexels.com/photos/21492/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1600'); */
+    background-image: linear-gradient(to bottom , darkcyan, black);
+    backdrop-filter: blur(5px);
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(245, 249, 253)!important;
+}
+
+/* button{
+    padding: 20px;
+    background-color: rgb(94, 52, 37);
+    border-radius: 5px;
+} */
