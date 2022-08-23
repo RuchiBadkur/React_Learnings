@@ -11,7 +11,7 @@ import '/node_modules/bootstrap/dist/css/bootstrap.min.css'
 import './css/myStyles.css';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import Header from './common/Header';
-import Navbar from './common/Navbar';
+import Menubar from './common/Menubar';
 import Footer from './common/Footer';
 import Left from './common/Left';
 import Right from './common/Right';
@@ -25,7 +25,7 @@ function App() {
         <BrowserRouter>
           <Header />
 
-          <Navbar />
+          <Menubar />
 
           <div className='row'>
             <Left />

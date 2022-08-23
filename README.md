@@ -83,3 +83,9 @@ bootstrap
 
 BrowserRouter, Route - path element, Routes, Link - to
 
+NavLink, nav - bootstrap
+
+liftstate
+lifting state up - child to parent
+
+Form
